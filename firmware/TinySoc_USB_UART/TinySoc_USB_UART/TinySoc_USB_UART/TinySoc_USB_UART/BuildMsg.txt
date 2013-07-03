@@ -1,0 +1,82 @@
+Starting MAKE...
+creating project.mk 
+
+lib/counter8_1.asm
+
+lib/counter8_1int.asm
+
+lib/led_1.asm
+
+lib/pga_1.asm
+
+lib/psocconfig.asm
+
+lib/psocconfigtbl.asm
+
+lib/sleeptimer_1.asm
+
+lib/sleeptimer_1int.asm
+
+lib/uart_1.asm
+
+lib/uart_1int.asm
+
+lib/uart_1plus.asm
+
+lib/usbuart_1.asm
+
+lib/usbuart_1_cls_cdc.asm
+
+lib/usbuart_1_descr.asm
+
+lib/usbuart_1_drv.asm
+
+lib/usbuart_1_std.asm
+
+lib/usbuart_1int.asm
+
+./boot.asm
+
+Linking..
+
+LMM info: area 'InterruptRAM' uses 68 bytes in SRAM bank 0
+
+LMM info: area 'data' item of 64 bytes allocated in SRAM page 0
+
+LMM info: area 'data' item of 33 bytes allocated in SRAM page 0
+
+LMM info: area 'UART_1_RAM' item of 16 bytes allocated in SRAM page 0
+
+LMM info: area 'data' item of 10 bytes allocated in SRAM page 0
+
+LMM info: area 'virtual_registers' uses 3 bytes in SRAM page 0
+
+LMM info: area 'data' item of 2 bytes allocated in SRAM page 0
+
+LMM info: area 'data' item of 2 bytes allocated in SRAM page 0
+
+LMM info: area 'data' item of 2 bytes allocated in SRAM page 0
+
+LMM info: area 'data' item of 1 bytes allocated in SRAM page 0
+
+LMM info: area 'data' item of 1 bytes allocated in SRAM page 0
+
+LMM info: area 'data' item of 1 bytes allocated in SRAM page 0
+
+LMM info: area 'data' item of 1 bytes allocated in SRAM page 0
+
+LMM info: area 'UART_1_RAM' item of 1 bytes allocated in SRAM page 0
+
+LMM info: area 'data' item of 1 bytes allocated in SRAM page 0
+
+idata dump at output/TinySoc_USB_UART.idata
+
+  ROM 35% full. 5609 out of 16384 bytes used (does not include absolute areas).
+
+  RAM 27% full. 206 bytes used (does not include stack usage).
+
+Built with ICCM8C STD V7.05.00
+
+ 
+TinySoc_USB_UART - 0 error(s) 0 warning(s) 09:44:05
+

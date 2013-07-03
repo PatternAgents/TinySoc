@@ -1,0 +1,57 @@
+# DO NOT DELETE
+./obj/boot.o : \
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8ssc.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\lib\GLOBAL~1.INC\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc
+./obj/main.o :  ./lib/COUNTE~1.H ./lib/LED_1.h ./lib/PSoCAPI.h\
+   ./lib/PSOCGP~1.H ./lib/SLEEPT~1.H ./lib/UART_1.h ./lib/USBUAR~1.H\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.h
+./lib/obj/counter8_1.o :  ./lib/COUNTE~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc
+./lib/obj/counter8_1int.o :  ./lib/COUNTE~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc
+./lib/obj/led_1.o :  ./lib/LED_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc
+./lib/obj/pga_1.o :  ./lib/PGA_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc
+./lib/obj/psocconfig.o :  ./lib/GLOBAL~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc
+./lib/obj/psocconfigtbl.o : \
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc
+./lib/obj/sleeptimer_1.o :  ./lib/SLEEPT~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc
+./lib/obj/sleeptimer_1int.o :  ./lib/SLEEPT~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc
+./lib/obj/uart_1.o :  ./lib/UART_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc
+./lib/obj/uart_1int.o :  ./lib/UART_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc
+./lib/obj/uart_1plus.o : 
+./lib/obj/usbuart_1.o :  ./lib/USBUAR~1.INC ./lib/USBUAR~2.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8ssc.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc
+./lib/obj/usbuart_1_cls_cdc.o :  ./lib/USBUAR~1.INC ./lib/USBUAR~2.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc
+./lib/obj/usbuart_1_descr.o :  ./lib/USBUAR~1.INC ./lib/USBUAR~2.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc
+./lib/obj/usbuart_1_drv.o :  ./lib/USBUAR~1.INC ./lib/USBUAR~2.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc
+./lib/obj/usbuart_1_std.o :  ./lib/USBUAR~1.INC ./lib/USBUAR~2.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc
+./lib/obj/usbuart_1int.o :  ./lib/USBUAR~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY7C64~2/m8c.inc\
+   U:\moxon\MYDOCU~1\GitHub\TinySoc\firmware\TINYSO~1\TINYSO~1\TINYSO~1\TINYSO~1\memory.inc

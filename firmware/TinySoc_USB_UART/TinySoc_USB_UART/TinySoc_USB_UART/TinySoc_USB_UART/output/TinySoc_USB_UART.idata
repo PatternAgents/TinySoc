@@ -1,0 +1,9 @@
+flash 1789 SRAM   44:
+ 00 97 bytes
+flash 178D SRAM   B5:
+ 00 10 bytes
+flash 1791 SRAM   C2:
+ 00 10 bytes
+flash 1795 SRAM   CD:
+ <size at next line>   0
+  [size:] 1 bytes
