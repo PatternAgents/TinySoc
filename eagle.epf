@@ -1,0 +1,33 @@
+[Eagle]
+Version="06 04 00"
+Platform="Windows"
+Serial="700CBCE2DD-LSR-WLM-1CS"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="U:/moxon/My Documents/eagle/PatternAgents/PCB_Libraries/eagle6/PatternAgents/PatternAgents-BLDC.lbr"
+UsedLibrary="U:/moxon/My Documents/eagle/PatternAgents/PCB_Libraries/eagle6/PatternAgents/PatternAgents-Displays.lbr"
+UsedLibrary="U:/moxon/My Documents/eagle/PatternAgents/PCB_Libraries/eagle6/PatternAgents/PatternAgents-Misc.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.4.0/lbr/SparkFun/SparkFun-Connectors.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.4.0/lbr/SparkFun/SparkFun-Passives.lbr"
+UsedLibrary="U:/moxon/My Documents/GitHub/PCB_Libraries/eagle6/lbr/PatternAgents-Beautify.lbr"
+UsedLibrary="U:/moxon/My Documents/GitHub/PCB_Libraries/eagle6/lbr/PatternAgents-Boards.lbr"
+UsedLibrary="U:/moxon/My Documents/GitHub/PCB_Libraries/eagle6/lbr/PatternAgents-Logos.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.4.0/lbr/SparkFun/SparkFun-DigitalIC.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.4.0/lbr/SparkFun/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.4.0/lbr/SparkFun/SparkFun-Electromechanical.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.4.0/lbr/SparkFun/SparkFun-Displays.lbr"
+UsedLibrary="U:/moxon/My Documents/GitHub/PCB_Libraries/eagle6/lbr/PatternAgents-Cypress.lbr"
+UsedLibrary="C:/Program Files/EAGLE-6.4.0/lbr/SparkFun/SparkFun-Capacitors.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="-1774 86 -206 1003"
+State=2
+Number=0
+
+[Desktop]
+Screen="3840 1080"
+Window="Win_1"
