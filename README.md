@@ -10,13 +10,22 @@ PatternAgents TinySoc is a simple USB based Programmable System-on-Chip that you
 or solder wires directly on to the board for embedded applications. 
 PatternAgents TinySoc gives you several analog and digital channels that you can program.
 
-Uses: 
+Uses:
+
 2 Channel analog audio mixer 
+
 2 Channel analog audio filter 
-USB to UART/I2C/SPI converter 
+
+USB to UART adaptor
+
+USB to SPI adaptor
+
+USB to I2C adaptor
+
 USB data acquisition
 
 You can read more about the PSoC1 Integrated Circuit used here : 
+
 http://www.cypress.com/?id=177
 
 Licensing CC v3.0 Share-Alike (http://creativecommons.org/licenses/by-sa/3.0/) 
