@@ -3,8 +3,8 @@ TinySoc
 
 PatternAgents TinySoc USB based Programmable System-on-Chip
 
-[![PatternAgents TinySoc](http://www.patternagent.com/projects/TinySoc/assets/TinySoc_model.png)  
-*PatternAgents TinySoc*](http://www.patternagent.com/projects/TinySoc)
+[![PatternAgents TinySoc](http://www.patternagent.com/img/project/tinysoc/TinySoc_model.png)  
+*PatternAgents TinySoc*](http://www.patternagent.com/projects/tiny-soc.html)
 
 PatternAgents TinySoc is a simple USB based Programmable System-on-Chip that you can either plug into a breadboard, 
 or solder wires directly on to the board for embedded applications. 
