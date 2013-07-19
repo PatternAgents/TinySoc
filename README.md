@@ -3,8 +3,8 @@ TinySoc
 
 PatternAgents TinySoc USB based Programmable System-on-Chip
 
-[![PatternAgents TinySoc](http://www.patternagent.com/img/projects/TinySoc/TinySoc_model.png)  
-*PatternAgents TinySoc*](http://www.patternagent.com/projects/TinySoc.html)
+[![PatternAgents TinySoc](http://www.patternagents.com/img/projects/TinySoc/TinySoc_model.png)  
+*PatternAgents TinySoc*](http://www.patternagents.com/projects/TinySoc.html)
 
 PatternAgents TinySoc is a simple USB based Programmable System-on-Chip that you can either plug into a breadboard, 
 or solder wires directly on to the board for embedded applications. 
@@ -47,7 +47,7 @@ All PatternAgents commercial licenses expressly supersede the GPLv3 open source 
 This means that when you license the PatternAgents software under a commercial license, 
 you specifically do not use the software under the open source license and therefore you are not subject to any of its terms.
         
-If you would like to use our designs for your own personal or educational use, have at at! 
+If you would like to use our designs for your own personal or educational use, have at it! 
 
 Our public design repository is available at <a href="https://github.com/patternagents">Github</a>.
 
