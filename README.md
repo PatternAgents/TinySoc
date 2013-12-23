@@ -26,26 +26,27 @@ USB data acquisition
 
 You can read more about the PSoC1 Integrated Circuit used here : http://www.cypress.com/?id=177
 
-Licensing GPLv3 ( http://www.gnu.org/licenses/gpl-3.0-standalone.html )
+[![Licensing CC BY-NC-SA 4.0](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)  
+*Licensing CC BY-NC-SA 4.0*](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 PatternAgents uses the increasingly popular business model called "Dual Licensing" 
 in which both the open source software distribution mechanism and traditional commercial software distribution models are combined.
 
 Open Source Projects:        
 
-If you are developing and distributing open source applications under the GNU General Public License version 3 (GPLv3), 
-as published by the Free Software Foundation, then you are free to use the PatternAgents hardware/software under the GPLv3 license. 
-Please note that GPLv3 Section 3(b) requires that all modifications to the original code as well as all Derivative Works 
-must also be released under the terms of the GPLv3 open source license.
+If you are developing and distributing open source applications under the Creative Commons CC BY-NC-SA 4.0, 
+as published by the Creative Commons Foundation, then you are free to use the PatternAgents hardware/software under the CC BY-NC-SA 4.0 license. 
+Please note that CC BY-NC-SA 4.0 requires that all modifications to the original code as well as all Derivative Works 
+must also be released under the terms of the CC BY-NC-SA 4.0 license.
 
 Closed Source Projects:
 
 If you are developing and distributing traditional closed source or commercial applications, 
 you must purchase a PatternAgents commercial use license, 
 which is specifically designed for users interested in retaining the proprietary status of their designs and code. 
-All PatternAgents commercial licenses expressly supersede the GPLv3 open source license. 
+All PatternAgents commercial licenses expressly supersede the CC BY-NC-SA 4.0 license. 
 This means that when you license the PatternAgents software under a commercial license, 
-you specifically do not use the software under the open source license and therefore you are not subject to any of its terms.
+you specifically do not use the software under the CC BY-NC-SA 4.0 license and therefore you are not subject to any of its terms.
         
 If you would like to use our designs for your own personal or educational use, have at it! 
 
